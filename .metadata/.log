@@ -1,0 +1,27 @@
+!SESSION 2023-12-13 21:33:48.178 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-12-13 21:33:54.525
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-13 21:33:54.535
+!MESSAGE Log4j2 initialized with config file C:\Users\Niko\Documents\Git\STM32_Examples\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-13 21:34:16.880
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-13 21:35:03.109
+!MESSAGE Indexed 'TB_Lab5' (26 sources, 88 headers) in 7 sec: 6,517 declarations; 44,318 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0039%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-13 21:39:08.916
+!MESSAGE Indexed 'TB_Lab5' (25 sources, 63 headers) in 1.14 sec: 5,768 declarations; 43,468 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-13 21:39:17.248
+!MESSAGE Indexed 'TB_Lab5' (25 sources, 63 headers) in 1.17 sec: 5,768 declarations; 43,468 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-12-13 21:39:18.601
+!MESSAGE Indexed 'TB_Lab5' (25 sources, 63 headers) in 1.14 sec: 5,768 declarations; 43,468 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
